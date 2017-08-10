@@ -1,25 +1,39 @@
 main {
+  
   box-sizing: border-box;
+  
   width: 700px;
+  
   height: 500px;
+  
   margin: 50px auto;
+  
   background: #8E2525;
-  /* For browsers that do not support gradients */
+  
   background: -webkit-linear-gradient(90deg, #B60000, pink);
-  /* For Safari 5.1 to 6.0 */
+  
   background: -o-linear-gradient(90deg, #8E2525, red);
-  /* For Opera 11.1 to 12.0 */
+  
   background: -moz-linear-gradient(90deg, #8E2525, red);
-  /* For Firefox 3.6 to 15 */
+  
   background: linear-gradient(90deg, #8E2525, red);
-  /* Standard syntax (must be last) */
+  
   }
+
 div {
+  
   box-sizing: border-box;
+  
   width: 100px;
+  
   height: 100px;
+  
   float: left;
+  
   }
+
 div.boxcolor {
+  
   background: white;
+  
   }
